@@ -3,7 +3,7 @@
   name: Viperfang
   parent: BaseWeaponRifle
   id: WeaponRifleFang
-  description: An reliable assault rifle. That uses .30 rifle ammo.
+  description: An reliable assault rifle. That uses .20 rifle ammo.
   components:
   - type: Sprite
     sprite: /Textures/_Arc/Objects/Weapons/Guns/Rifles/viperfang.rsi
